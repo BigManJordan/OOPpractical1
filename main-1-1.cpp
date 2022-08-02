@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "function-1-1.hpp"
+#include "function-1-1.cpp"
 
 extern int sum_array(int*, int);
 
